@@ -246,4 +246,8 @@ def main():
     
     print("\n" + "="*70)
     print("All safe_run examples completed!")
-    print
+    print("="*70 + "\n")
+
+
+if __name__ == "__main__":
+    main()
